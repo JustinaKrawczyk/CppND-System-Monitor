@@ -4,6 +4,6 @@ System monitor is a tool to monitor processes on Linux. Similar to htop, system 
 
 ## Dependencies
 
-* ncurses library (Install ncurses within the Linux environment using ```sudo apt install libncurses5-dev libncursesw5-dev```
+* ncurses library (Install ncurses within the Linux environment using ```sudo apt install libncurses5-dev libncursesw5-dev ```
 
 ## Build
