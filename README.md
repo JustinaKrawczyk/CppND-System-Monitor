@@ -2,7 +2,7 @@
 
 System monitor is a tool to monitor processes on Linux. Similar to htop, system monitor allows to see all active process running on the system, with their corresponding ids (PIDs), CPU usage, and memory usage.
 
-This monitor process tool has been developed as a project task in the context of [Udacity Nanodegree Program C++] (https://github.com/udacity/CppND-System-Monitor).
+This monitor process tool has been developed as a project task in the context of [Udacity Nanodegree Program C++](https://github.com/udacity/CppND-System-Monitor).
 
 
 ## Dependencies
